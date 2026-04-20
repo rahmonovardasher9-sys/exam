@@ -88,3 +88,53 @@ a{
     display: flex;
     gap: 10px;
 }
+.g{
+    width: 100%;
+}
+.h{
+    padding: 0px 60px;
+    display: flex;
+    justify-content: space-between;
+}
+.j{
+    width: 20%;
+    padding: 10px;
+}
+.k{
+    font-size: 26px;
+    font-weight: 700;
+}
+.l{
+    background-color: rgba(67, 141, 184, 1);
+    width: 60px;
+    height: 5px;
+    border-radius: 8px;
+    margin: 20px 0px;
+}
+.z{
+    font-size: 17px;
+    font-weight: 100;
+}
+.x{
+    background-color: rgba(67, 141, 184, 1);
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    width: 100%;
+
+    color: white;
+    margin-top: 10px;
+}
+.c{
+    font-size: 12px;
+    font-weight: 400;
+    margin: 10px 0px;
+}
+.v{
+    font-size: 15px;
+    font-weight: 500;
+}
+.b{
+    color: rgba(190, 188, 189, 1);
+    font-size: 12px;
+}
